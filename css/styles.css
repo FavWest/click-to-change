@@ -1,5 +1,12 @@
-.box {
-  border: 1px solid darkgrey;
+.yes {
+  border: 5px solid green;
   width: 50px;
   text-align: center;
+}
+
+.no {
+  border: 5px solid red;
+  width: 50px;
+  text-align: center;
+  display: none;
 }
